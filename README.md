@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# A Hardhat DApp using Ethereum, Solidity and NodeJS
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a Hardhat use case. It comes with a smart contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This was done for my Computer Science Main Project for the 6th semester 
+Batch:- 2020-2023
